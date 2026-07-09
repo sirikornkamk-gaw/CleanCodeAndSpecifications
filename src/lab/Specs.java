@@ -17,7 +17,7 @@ package lab;
 public class Specs {
     // TODO ข้อ 4: เขียน JavaDoc ให้เมธอดนี้
     /**
-     * 
+     * เช็คหาค่าที่ต้องการการหาว่าตรงกับ key มั้ย
      * @param arr arr!=null 
      * @throws IllegalArgumentException ถ้า arr == null
      * @param key ค่าที่ต้องการหา
